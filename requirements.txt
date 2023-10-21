@@ -1,0 +1,12 @@
+ipykernel
+polars
+jupyter
+numpy
+matplotlib
+scipy
+scikit-learn
+seaborn
+japanize-matplotlib
+pandas
+ipywidgets
+
