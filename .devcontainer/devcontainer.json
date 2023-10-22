@@ -22,6 +22,16 @@
     },
     "extensions": [
         "ms-python.python",
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.jupyter-keymap",
+        "ms-toolsai.vscode-jupyter-cell-tags",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.vscode-jupyter-slideshow",
+        "ms-python.vscode-pylance",
+        "KevinRose.vsc-python-indent",
+        "vscodevim.vim",
     ],
     "postCreateCommand": "pip install -r requirements.txt",
 }
